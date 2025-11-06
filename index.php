@@ -10,7 +10,7 @@
 <body>
   <?php
   echo "Hello, World!";
-  echo "Ini adalah commit pertama saya menggunakan Git dan GitHub.";
+  echo "Ini adalah commit kedua.";
   ?>
 </body>
 
